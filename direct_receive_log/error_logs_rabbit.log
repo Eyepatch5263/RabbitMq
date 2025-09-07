@@ -1,0 +1,5 @@
+2025/09/07 14:43:42 Binding queue amq.gen-TXGQzir8qIInxz1SKjG-Mg to exchange logs_direct with routing key error
+2025/09/07 14:43:42  [*] Waiting for logs. To exit press CTRL+C
+2025/09/07 14:43:52  [x] this is the error
+2025/09/07 14:45:44  [x] this is the error-2
+signal: interrupt

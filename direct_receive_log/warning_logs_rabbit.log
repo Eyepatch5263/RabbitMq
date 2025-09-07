@@ -1,0 +1,5 @@
+2025/09/07 14:45:24 Binding queue amq.gen-1sE8A4hQW91DXXcEe6eZ_A to exchange logs_direct with routing key warn
+2025/09/07 14:45:24 Binding queue amq.gen-1sE8A4hQW91DXXcEe6eZ_A to exchange logs_direct with routing key n
+2025/09/07 14:45:24  [*] Waiting for logs. To exit press CTRL+C
+2025/09/07 14:45:47  [x] this is the warning-2
+signal: interrupt
